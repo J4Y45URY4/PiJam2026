@@ -58,7 +58,7 @@ export default function Footer() {
             </h4>
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/J4Y45URY4"
                 target="_blank"
                 rel="noreferrer"
                 className="w-8 h-8 rounded-full border-2 border-teak bg-kasavu-dark flex items-center justify-center text-teak hover:bg-brass hover:text-white transition-all duration-150 shadow-[2px_2px_0px_0px_var(--color-teak)] active:translate-x-[1px] active:translate-y-[1px] active:shadow-[1px_1px_0px_0px_var(--color-teak)]"
@@ -70,7 +70,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://kochimaker.circle"
+                href="https://tinkerhub.org"
                 target="_blank"
                 rel="noreferrer"
                 className="w-8 h-8 rounded-full border-2 border-teak bg-kasavu-dark flex items-center justify-center text-teak hover:bg-brass hover:text-white transition-all duration-150 shadow-[2px_2px_0px_0px_var(--color-teak)] active:translate-x-[1px] active:translate-y-[1px] active:shadow-[1px_1px_0px_0px_var(--color-teak)]"
@@ -83,7 +83,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="mailto:contact@kochimaker.circle"
+                href="mailto:tinkerspacekochi@gmail.com"
                 className="w-8 h-8 rounded-full border-2 border-teak bg-kasavu-dark flex items-center justify-center text-teak hover:bg-brass hover:text-white transition-all duration-150 shadow-[2px_2px_0px_0px_var(--color-teak)] active:translate-x-[1px] active:translate-y-[1px] active:shadow-[1px_1px_0px_0px_var(--color-teak)]"
               >
                 {/* Custom Mail SVG */}
@@ -109,6 +109,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto mt-8 pt-8 border-t-2 border-teak flex flex-col sm:flex-row justify-between items-center text-center sm:text-left gap-4">
         <span className="font-mono text-[9px] text-teak/60 font-black">
           DEVICE_SPEC:_V1.0 // CLK=2400MHZ // STATUS=STABLE
+        </span>
+        <span className="font-mono text-[10px] text-teak font-black">
+          Made with ❤️ by Jayasurya
         </span>
       </div>
     </footer>
